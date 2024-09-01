@@ -10,7 +10,6 @@ You can preview the `mvr` icon font using the demo HTML provided in this reposit
 
 Here’s a snippet of the demo HTML file:
 
-```html
 <!doctype html>
 <html>
 <head>
